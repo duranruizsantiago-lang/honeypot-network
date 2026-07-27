@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 repository.go
 
 Repository interfaces for all persistent data access
@@ -16,7 +15,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/CarterPerez-dev/hive/pkg/types"
+	"github.com/duranruizsantiago-lang/honeypot-network/pkg/types"
 )
 
 type EventRepository interface {

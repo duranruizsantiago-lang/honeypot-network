@@ -1,4 +1,3 @@
--- ©AngelaMos | 2026
 -- 002_enums.sql
 
 -- +goose Up

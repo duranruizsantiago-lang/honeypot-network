@@ -1,4 +1,3 @@
--- ©AngelaMos | 2026
 -- 011_indexes.sql
 
 -- +goose Up

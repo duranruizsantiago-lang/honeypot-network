@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 bus.go
 
 In-process event bus with fan-out pub/sub for honeypot events
@@ -16,8 +15,8 @@ package event
 import (
 	"sync"
 
-	"github.com/CarterPerez-dev/hive/internal/config"
-	"github.com/CarterPerez-dev/hive/pkg/types"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/config"
+	"github.com/duranruizsantiago-lang/honeypot-network/pkg/types"
 )
 
 type subscriber struct {

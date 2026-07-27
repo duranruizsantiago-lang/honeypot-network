@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 migrate.go
 
 Database migration subcommands using goose

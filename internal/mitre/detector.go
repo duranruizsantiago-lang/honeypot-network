@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 detector.go
 
 Rule engine for detecting MITRE ATT&CK techniques from honeypot events
@@ -18,7 +17,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/CarterPerez-dev/hive/pkg/types"
+	"github.com/duranruizsantiago-lang/honeypot-network/pkg/types"
 )
 
 const (

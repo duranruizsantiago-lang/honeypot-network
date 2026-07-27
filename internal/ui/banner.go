@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 banner.go
 
 ASCII art banner for the hive honeypot network CLI

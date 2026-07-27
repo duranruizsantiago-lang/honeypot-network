@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 redis.go
 
 Redis Streams client for real-time event streaming
@@ -18,8 +17,8 @@ import (
 
 	"github.com/redis/go-redis/v9"
 
-	"github.com/CarterPerez-dev/hive/internal/config"
-	"github.com/CarterPerez-dev/hive/pkg/types"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/config"
+	"github.com/duranruizsantiago-lang/honeypot-network/pkg/types"
 )
 
 type RedisStreamer struct {

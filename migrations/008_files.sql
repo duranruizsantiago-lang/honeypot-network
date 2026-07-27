@@ -1,4 +1,3 @@
--- ©AngelaMos | 2026
 -- 008_files.sql
 
 -- +goose Up

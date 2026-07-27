@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 hostkey.go
 
 SSH host key generation and persistence

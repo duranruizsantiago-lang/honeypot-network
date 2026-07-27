@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 filesystem.go
 
 In-memory fake filesystem for the SSH shell environment

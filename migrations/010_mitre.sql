@@ -1,4 +1,3 @@
--- ©AngelaMos | 2026
 -- 010_mitre.sql
 
 -- +goose Up

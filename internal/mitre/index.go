@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 index.go
 
 Embedded MITRE ATT&CK technique catalog for honeypot detections

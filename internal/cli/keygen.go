@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 keygen.go
 
 Generate and persist an Ed25519 SSH host key

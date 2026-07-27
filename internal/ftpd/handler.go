@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 handler.go
 
 FTP command handler and data channel management for the honeypot

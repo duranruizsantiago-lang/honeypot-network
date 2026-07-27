@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 commands.go
 
 Redis command handlers for the RESP protocol honeypot

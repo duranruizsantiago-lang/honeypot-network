@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 symbol.go
 
 Unicode symbols for terminal output

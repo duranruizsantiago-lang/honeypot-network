@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 scanner.go
 
 HTTP scanner detection by user-agent fingerprinting

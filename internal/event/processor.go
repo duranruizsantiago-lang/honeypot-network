@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 processor.go
 
 Event processing pipeline with bounded worker pool
@@ -22,8 +21,8 @@ import (
 	"github.com/rs/zerolog"
 	"golang.org/x/sync/errgroup"
 
-	"github.com/CarterPerez-dev/hive/internal/config"
-	"github.com/CarterPerez-dev/hive/pkg/types"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/config"
+	"github.com/duranruizsantiago-lang/honeypot-network/pkg/types"
 )
 
 type GeoResolver interface {

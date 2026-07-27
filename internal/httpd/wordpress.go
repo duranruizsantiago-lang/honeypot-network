@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 wordpress.go
 
 Fake WordPress login and admin pages for the HTTP honeypot

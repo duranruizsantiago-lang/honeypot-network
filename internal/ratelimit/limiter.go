@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 limiter.go
 
 Per-IP token bucket rate limiter with automatic cleanup
@@ -17,7 +16,7 @@ import (
 
 	"golang.org/x/time/rate"
 
-	"github.com/CarterPerez-dev/hive/internal/config"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/config"
 )
 
 type entry struct {

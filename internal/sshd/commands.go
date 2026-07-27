@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 commands.go
 
 Fake command execution for the SSH honeypot shell

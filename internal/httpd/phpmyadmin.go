@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 phpmyadmin.go
 
 Fake phpMyAdmin login page for the HTTP honeypot

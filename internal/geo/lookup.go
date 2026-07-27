@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 lookup.go
 
 GeoIP resolution using MaxMind GeoLite2 database
@@ -18,7 +17,7 @@ import (
 
 	"github.com/oschwald/maxminddb-golang"
 
-	"github.com/CarterPerez-dev/hive/pkg/types"
+	"github.com/duranruizsantiago-lang/honeypot-network/pkg/types"
 )
 
 type mmdbRecord struct {

@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 websocket.go
 
 Real-time event streaming over WebSocket
@@ -18,7 +17,7 @@ import (
 
 	"nhooyr.io/websocket"
 
-	"github.com/CarterPerez-dev/hive/internal/config"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/config"
 )
 
 func (s *Server) handleWebSocket(

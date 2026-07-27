@@ -1,4 +1,3 @@
--- ©AngelaMos | 2026
 -- 003_sensors.sql
 
 -- +goose Up

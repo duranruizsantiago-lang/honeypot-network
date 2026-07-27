@@ -1,4 +1,3 @@
--- ©AngelaMos | 2026
 -- 004_attackers.sql
 
 -- +goose Up

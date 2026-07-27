@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 recorder_test.go
 */
 

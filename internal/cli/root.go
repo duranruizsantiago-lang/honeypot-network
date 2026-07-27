@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 root.go
 
 Cobra root command and CLI entry point for hive
@@ -21,8 +20,8 @@ import (
 	"github.com/fatih/color"
 	"github.com/spf13/cobra"
 
-	"github.com/CarterPerez-dev/hive/internal/config"
-	"github.com/CarterPerez-dev/hive/internal/ui"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/config"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/ui"
 )
 
 var (
@@ -103,7 +102,7 @@ func newVersionCmd() *cobra.Command {
 		Run: func(cmd *cobra.Command, args []string) {
 			ui.PrintBanner()
 			fmt.Printf("  Version:  %s\n", config.ToolVersion)
-			fmt.Printf("  Module:   github.com/CarterPerez-dev/hive\n")
+			fmt.Printf("  Module:   github.com/duranruizsantiago-lang/honeypot-network\n")
 		},
 	}
 }

@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 serve.go
 
 The serve subcommand starts all honeypot services
@@ -23,22 +22,22 @@ import (
 	"golang.org/x/sync/errgroup"
 	"golang.org/x/time/rate"
 
-	"github.com/CarterPerez-dev/hive/internal/api"
-	"github.com/CarterPerez-dev/hive/internal/config"
-	"github.com/CarterPerez-dev/hive/internal/event"
-	"github.com/CarterPerez-dev/hive/internal/ftpd"
-	"github.com/CarterPerez-dev/hive/internal/geo"
-	"github.com/CarterPerez-dev/hive/internal/httpd"
-	"github.com/CarterPerez-dev/hive/internal/mitre"
-	"github.com/CarterPerez-dev/hive/internal/mysqld"
-	"github.com/CarterPerez-dev/hive/internal/ratelimit"
-	"github.com/CarterPerez-dev/hive/internal/redisd"
-	"github.com/CarterPerez-dev/hive/internal/session"
-	"github.com/CarterPerez-dev/hive/internal/smbd"
-	"github.com/CarterPerez-dev/hive/internal/sshd"
-	"github.com/CarterPerez-dev/hive/internal/store"
-	"github.com/CarterPerez-dev/hive/internal/ui"
-	"github.com/CarterPerez-dev/hive/pkg/types"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/api"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/config"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/event"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/ftpd"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/geo"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/httpd"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/mitre"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/mysqld"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/ratelimit"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/redisd"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/session"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/smbd"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/sshd"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/store"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/ui"
+	"github.com/duranruizsantiago-lang/honeypot-network/pkg/types"
 )
 
 func newServeCmd() *cobra.Command {

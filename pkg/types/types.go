@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 types.go
 
 Shared domain types for the hive honeypot network

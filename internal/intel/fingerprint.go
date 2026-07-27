@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 fingerprint.go
 
 Attacker tool family classification from protocol metadata

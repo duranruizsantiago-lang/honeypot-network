@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 fingerprint_test.go
 */
 

@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 spinner.go
 
 Terminal spinner for long-running operations

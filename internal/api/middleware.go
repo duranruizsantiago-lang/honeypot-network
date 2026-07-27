@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 middleware.go
 
 HTTP middleware chain for the dashboard REST API

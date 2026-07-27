@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 recorder.go
 
 Terminal session recorder in asciicast v2 format

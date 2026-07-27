@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 pgx.go
 
 PostgreSQL implementation of all repository interfaces using pgxpool
@@ -21,8 +20,8 @@ import (
 	"github.com/jackc/pgx/v5"
 	"github.com/jackc/pgx/v5/pgxpool"
 
-	"github.com/CarterPerez-dev/hive/internal/config"
-	"github.com/CarterPerez-dev/hive/pkg/types"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/config"
+	"github.com/duranruizsantiago-lang/honeypot-network/pkg/types"
 )
 
 type PgxStore struct {

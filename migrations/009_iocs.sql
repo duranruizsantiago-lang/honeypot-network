@@ -1,4 +1,3 @@
--- ©AngelaMos | 2026
 -- 009_iocs.sql
 
 -- +goose Up

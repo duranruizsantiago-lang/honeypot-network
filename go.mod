@@ -1,4 +1,4 @@
-module github.com/CarterPerez-dev/hive
+module github.com/duranruizsantiago-lang/honeypot-network
 
 go 1.25.0
 

@@ -1,4 +1,3 @@
--- ©AngelaMos | 2026
 -- 001_extensions.sql
 
 -- +goose Up

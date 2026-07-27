@@ -1,4 +1,3 @@
-# ©AngelaMos | 2026
 # Justfile
 
 set export

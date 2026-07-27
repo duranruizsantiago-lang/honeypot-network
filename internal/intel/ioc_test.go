@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 ioc_test.go
 */
 
@@ -13,7 +12,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/CarterPerez-dev/hive/pkg/types"
+	"github.com/duranruizsantiago-lang/honeypot-network/pkg/types"
 )
 
 func TestExtractPublicIP(t *testing.T) {

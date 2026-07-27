@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 negotiate.go
 
 SMB negotiate protocol handler for the honeypot

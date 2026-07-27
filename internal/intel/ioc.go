@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 ioc.go
 
 Indicator of Compromise extraction from honeypot events
@@ -19,7 +18,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/CarterPerez-dev/hive/pkg/types"
+	"github.com/duranruizsantiago-lang/honeypot-network/pkg/types"
 )
 
 var urlPattern = regexp.MustCompile(

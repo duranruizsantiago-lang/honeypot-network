@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 main.go
 
 Entry point for the hive honeypot network
@@ -7,7 +6,7 @@ Entry point for the hive honeypot network
 
 package main
 
-import "github.com/CarterPerez-dev/hive/internal/cli"
+import "github.com/duranruizsantiago-lang/honeypot-network/internal/cli"
 
 func main() {
 	cli.Execute()

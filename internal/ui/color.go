@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 color.go
 
 Terminal color helpers backed by fatih/color

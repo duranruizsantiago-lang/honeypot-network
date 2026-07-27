@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 server.go
 
 HTTP honeypot service emulating a WordPress/phpMyAdmin web server
@@ -20,10 +19,10 @@ import (
 
 	"github.com/rs/zerolog"
 
-	"github.com/CarterPerez-dev/hive/internal/config"
-	"github.com/CarterPerez-dev/hive/internal/event"
-	"github.com/CarterPerez-dev/hive/internal/ratelimit"
-	"github.com/CarterPerez-dev/hive/internal/session"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/config"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/event"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/ratelimit"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/session"
 )
 
 type HTTPService struct {

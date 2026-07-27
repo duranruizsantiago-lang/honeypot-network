@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 server.go
 
 Redis RESP protocol honeypot using the redcon library
@@ -25,11 +24,11 @@ import (
 	"github.com/rs/zerolog"
 	"github.com/tidwall/redcon"
 
-	"github.com/CarterPerez-dev/hive/internal/config"
-	"github.com/CarterPerez-dev/hive/internal/event"
-	"github.com/CarterPerez-dev/hive/internal/ratelimit"
-	"github.com/CarterPerez-dev/hive/internal/session"
-	"github.com/CarterPerez-dev/hive/pkg/types"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/config"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/event"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/ratelimit"
+	"github.com/duranruizsantiago-lang/honeypot-network/internal/session"
+	"github.com/duranruizsantiago-lang/honeypot-network/pkg/types"
 )
 
 const (

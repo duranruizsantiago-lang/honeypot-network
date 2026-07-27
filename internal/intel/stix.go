@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 stix.go
 
 STIX 2.1 threat intelligence export for honeypot IOCs
@@ -19,7 +18,7 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/CarterPerez-dev/hive/pkg/types"
+	"github.com/duranruizsantiago-lang/honeypot-network/pkg/types"
 )
 
 const (

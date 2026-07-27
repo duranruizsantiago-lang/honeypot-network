@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 constants.go
 
 Tool metadata and default values for all honeypot services

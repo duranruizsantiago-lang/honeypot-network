@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 commands_test.go
 */
 

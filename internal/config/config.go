@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 config.go
 
 Configuration loading and validation for the hive honeypot network

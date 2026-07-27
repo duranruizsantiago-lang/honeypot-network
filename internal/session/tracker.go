@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 tracker.go
 
 Thread-safe active session tracker
@@ -19,7 +18,7 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/CarterPerez-dev/hive/pkg/types"
+	"github.com/duranruizsantiago-lang/honeypot-network/pkg/types"
 )
 
 type Tracker struct {

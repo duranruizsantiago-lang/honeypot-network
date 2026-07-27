@@ -1,4 +1,3 @@
--- ©AngelaMos | 2026
 -- 005_sessions.sql
 
 -- +goose Up

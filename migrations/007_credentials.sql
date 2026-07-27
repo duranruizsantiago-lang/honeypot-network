@@ -1,4 +1,3 @@
--- ©AngelaMos | 2026
 -- 007_credentials.sql
 
 -- +goose Up

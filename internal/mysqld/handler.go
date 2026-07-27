@@ -1,5 +1,4 @@
 /*
-©AngelaMos | 2026
 handler.go
 
 MySQL wire protocol handler for the honeypot
