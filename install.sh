@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# ©AngelaMos | 2026
 # install.sh
 
 set -euo pipefail

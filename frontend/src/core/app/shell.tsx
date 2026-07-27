@@ -1,4 +1,3 @@
-// ©AngelaMos | 2026
 // shell.tsx
 
 import { useEffect } from 'react'

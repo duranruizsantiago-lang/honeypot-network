@@ -1,4 +1,3 @@
-// ©AngelaMos | 2026
 // websocket.store.ts
 
 import { create } from 'zustand'

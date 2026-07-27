@@ -1,4 +1,3 @@
-// ©AngelaMos | 2026
 // service-badge.tsx
 
 import type { ServiceType } from '@/api/types'

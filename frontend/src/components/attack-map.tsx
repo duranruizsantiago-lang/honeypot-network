@@ -1,4 +1,3 @@
-// ©AngelaMos | 2026
 // attack-map.tsx
 
 import { CircleMarker, MapContainer, TileLayer, Tooltip } from 'react-leaflet'

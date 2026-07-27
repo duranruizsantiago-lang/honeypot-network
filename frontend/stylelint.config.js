@@ -1,4 +1,3 @@
-// ©AngelaMos | 2026
 // stylelint.config.js
 
 /** @type {import('stylelint').Config} */

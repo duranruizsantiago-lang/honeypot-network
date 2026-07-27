@@ -1,4 +1,3 @@
-// ©AngelaMos | 2026
 // index.tsx
 
 import { Link } from 'react-router-dom'

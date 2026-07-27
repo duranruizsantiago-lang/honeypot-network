@@ -1,4 +1,3 @@
-// ©AngelaMos | 2026
 // router.tsx
 
 import { createBrowserRouter } from 'react-router-dom'

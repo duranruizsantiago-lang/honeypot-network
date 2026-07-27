@@ -16,7 +16,7 @@ import "time"
 const (
 	ToolName    = "hive"
 	ToolVersion = "0.1.0"
-	ToolVendor  = "CarterPerez-dev"
+	ToolVendor  = "duranruizsantiago-lang"
 )
 
 const (

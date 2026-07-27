@@ -1,4 +1,3 @@
-// ©AngelaMos | 2026
 // session-player.tsx
 
 import { FitAddon } from '@xterm/addon-fit'

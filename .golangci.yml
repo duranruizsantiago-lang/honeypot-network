@@ -91,7 +91,7 @@ formatters:
       sections:
         - standard
         - default
-        - prefix(github.com/CarterPerez-dev)
+        - prefix(github.com/duranruizsantiago-lang)
       custom-order: true
     gofumpt:
       extra-rules: true

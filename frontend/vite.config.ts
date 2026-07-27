@@ -1,4 +1,3 @@
-// ©AngelaMos | 2026
 // vite.config.ts
 
 import { resolve } from 'node:path'

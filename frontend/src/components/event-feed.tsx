@@ -1,4 +1,3 @@
-// ©AngelaMos | 2026
 // event-feed.tsx
 
 import { useWebSocketStore } from '@/core/lib/websocket.store'

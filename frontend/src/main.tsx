@@ -1,4 +1,3 @@
-// ©AngelaMos | 2026
 // main.tsx
 
 import { StrictMode } from 'react'
